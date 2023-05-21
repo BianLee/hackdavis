@@ -26,12 +26,22 @@ export default function Hero() {
           Esai provides fast and reliable access to DSM5 powered by Large
           Language Model (LLM) and embedded vector search
         </h2>
-        <Link
-          className="border-solid border-2 border-white rounded-xl text-white font-medium px-4 py-3 sm:mt-10 mt-8 transition"
-          href="/chatbot"
-        >
-          Use chatbot
-        </Link>
+        <div style={{ display: "inline", marginTop: "4rem" }}>
+          <Link
+            style={{ marginRight: "0.5rem" }}
+            className="border-solid border-2 border-white rounded-xl text-white font-medium px-4 py-3 sm:mt-10 mt-8 transition"
+            href="/chatbot"
+          >
+            Use chatbot
+          </Link>
+          <Link
+            className="border-solid border-2 border-white rounded-xl text-white font-medium px-4 py-3 sm:mt-10 mt-8 transition"
+            href="https://github.com/ritvikir/hackdavis"
+            target="_blank"
+          >
+            GitHub
+          </Link>
+        </div>
         <div className="flex justify-between items-center w-full flex-col sm:mt-10 mt-6">
           <div className="flex flex-col space-y-10 mt-4 mb-16">
             {/*
