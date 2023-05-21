@@ -45,7 +45,7 @@ export default function Navbar() {
               </Link>
             </li>
             <li className="block py-2 pr-4 pl-4 text-xl text-gray-700 hover:text-gray-50 md:hover:bg-transparent hover:text-gray-500">
-              <Link href="/analytics">Analytics</Link>
+              <Link href="/analytics">Data Analysis</Link>
             </li>
             <li className="block py-2 pr-4 pl-4 text-xl text-gray-700 hover:text-gray-50 md:hover:bg-transparent hover:text-gray-500">
               <Link href="/resources">Resources</Link>
