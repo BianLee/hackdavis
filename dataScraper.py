@@ -3,9 +3,7 @@ import json
 
 results_data = []
 for i in range(3):
-    print(i*10)
-    
-    search_url = "https://www.yelp.com/search/snippet?ficnd_desc=Psychiatrists&find_loc=Davis%2C+CA%2C+United+States&request_origin=user&start=" + str(i*10)
+    search_url = "https://www.yelp.com/search/snippet?find_desc=Psychiatrists&find_loc=Davis%2C+CA%2C+United+States&request_origin=user&start=" + str(i*10)
     search_response = requests.get(search_url)
     search_results = search_response.json()['searchPageProps']['mainContentComponentsListProps']
     
