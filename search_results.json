@@ -1,5 +1,109 @@
 [
     {
+        "name": "Catherine Brennan, MD - Community Psychiatry",
+        "phone": "(530) 297-7500",
+        "review_count": 1,
+        "rating": 5.0,
+        "business_url": "https://www.yelp.com/biz/catherine-brennan-md-community-psychiatry-davis-3?osq=Psychiatrists",
+        "categories": [
+            "Psychiatrists"
+        ]
+    },
+    {
+        "name": "Brainefit",
+        "phone": "(530) 231-5858",
+        "review_count": 4,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/brainefit-davis?osq=Psychiatrists",
+        "categories": [
+            "Psychiatrists"
+        ]
+    },
+    {
+        "name": "Helen Krell, MD",
+        "phone": "(530) 746-0481",
+        "review_count": 2,
+        "rating": 3.0,
+        "business_url": "https://www.yelp.com/biz/helen-krell-md-davis?osq=Psychiatrists",
+        "categories": [
+            "Psychiatrists"
+        ]
+    },
+    {
+        "name": "Induni Marta MFT",
+        "phone": "(530) 756-0555",
+        "review_count": 1,
+        "rating": 5.0,
+        "business_url": "https://www.yelp.com/biz/induni-marta-mft-davis?osq=Psychiatrists",
+        "categories": [
+            "Counseling & Mental Health"
+        ]
+    },
+    {
+        "name": "CIT Clinics",
+        "phone": "(415) 675-1335",
+        "review_count": 12,
+        "rating": 4.8,
+        "business_url": "https://www.yelp.com/biz/cit-clinics-vacaville-2?osq=Psychiatrists",
+        "categories": [
+            "Counseling & Mental Health",
+            "IV Hydration",
+            "Anesthesiologists"
+        ]
+    },
+    {
+        "name": "Elilta Hagos, MD, MPH",
+        "phone": "",
+        "review_count": 3,
+        "rating": 2.3,
+        "business_url": "https://www.yelp.com/biz/elilta-hagos-md-mph-davis?osq=Psychiatrists",
+        "categories": [
+            "Family Practice"
+        ]
+    },
+    {
+        "name": "Gerbasi Joan, MD",
+        "phone": "(530) 753-4636",
+        "review_count": 0,
+        "rating": 0.0,
+        "business_url": "https://www.yelp.com/biz/gerbasi-joan-md-davis?osq=Psychiatrists",
+        "categories": [
+            "Psychiatrists"
+        ]
+    },
+    {
+        "name": "Larsen, Christian S, MD",
+        "phone": "(530) 758-3904",
+        "review_count": 0,
+        "rating": 0.0,
+        "business_url": "https://www.yelp.com/biz/larsen-christian-s-md-davis?osq=Psychiatrists",
+        "categories": [
+            "Psychiatrists",
+            "Surgeons"
+        ]
+    },
+    {
+        "name": "Watt Judith MD",
+        "phone": "(530) 756-2438",
+        "review_count": 0,
+        "rating": 0.0,
+        "business_url": "https://www.yelp.com/biz/watt-judith-md-davis?osq=Psychiatrists",
+        "categories": [
+            "Psychiatrists"
+        ]
+    },
+    {
+        "name": "Mindpath Health",
+        "phone": "(530) 666-9500",
+        "review_count": 5,
+        "rating": 2.6,
+        "business_url": "https://www.yelp.com/biz/mindpath-health-woodland?osq=Psychiatrists",
+        "categories": [
+            "Psychiatrists",
+            "Psychologists"
+        ]
+    },
+    {
         "name": "Dryfoos Renee, PhD",
         "phone": "(530) 297-5095",
         "review_count": 0,
@@ -101,6 +205,114 @@
         "categories": [
             "Psychiatrists",
             "Psychologists"
+        ]
+    },
+    {
+        "name": "Rodgers Carol Mfcc Psychiatry",
+        "phone": "(530) 668-2609",
+        "review_count": 0,
+        "rating": 0.0,
+        "business_url": "https://www.yelp.com/biz/rodgers-carol-mfcc-psychiatry-woodland?osq=Psychiatrists",
+        "categories": [
+            "Psychiatrists"
+        ]
+    },
+    {
+        "name": "Roseville Oaks Outpatient Behavioral Health Center",
+        "phone": "(916) 480-5101",
+        "review_count": 4,
+        "rating": 3.5,
+        "business_url": "https://www.yelp.com/biz/roseville-oaks-outpatient-behavioral-health-center-roseville?osq=Psychiatrists",
+        "categories": [
+            "Counseling & Mental Health",
+            "Psychiatrists",
+            "Rehabilitation Center"
+        ]
+    },
+    {
+        "name": "Jonathan D. Funk, MD",
+        "phone": "(530) 668-2600",
+        "review_count": 6,
+        "rating": 3.0,
+        "business_url": "https://www.yelp.com/biz/jonathan-d-funk-md-woodland?osq=Psychiatrists",
+        "categories": [
+            "Psychiatrists"
+        ]
+    },
+    {
+        "name": "Guss Gregory Lcsw",
+        "phone": "(530) 758-1580",
+        "review_count": 0,
+        "rating": 0.0,
+        "business_url": "https://www.yelp.com/biz/guss-gregory-lcsw-davis?osq=Psychiatrists",
+        "categories": [
+            "Psychiatrists"
+        ]
+    },
+    {
+        "name": "Davis Urgent Care",
+        "phone": "(530) 759-9110",
+        "review_count": 76,
+        "rating": 3.0,
+        "business_url": "https://www.yelp.com/biz/davis-urgent-care-davis-2?osq=Psychiatrists",
+        "categories": [
+            "Family Practice",
+            "Urgent Care",
+            "Internal Medicine"
+        ]
+    },
+    {
+        "name": "Steven J Smith, MD",
+        "phone": "(530) 758-1122",
+        "review_count": 4,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/steven-j-smith-md-davis-4?osq=Psychiatrists",
+        "categories": [
+            "Family Practice"
+        ]
+    },
+    {
+        "name": "UC Davis Student Health & Wellness Center",
+        "phone": "(530) 752-2300",
+        "review_count": 21,
+        "rating": 3.5,
+        "business_url": "https://www.yelp.com/biz/uc-davis-student-health-and-wellness-center-davis?osq=Psychiatrists",
+        "categories": [
+            "Medical Centers",
+            "Urgent Care",
+            "Massage Therapy"
+        ]
+    },
+    {
+        "name": "Hart Kent B MD Psychiatry",
+        "phone": "(530) 668-2609",
+        "review_count": 0,
+        "rating": 0.0,
+        "business_url": "https://www.yelp.com/biz/hart-kent-b-md-psychiatry-woodland?osq=Psychiatrists",
+        "categories": [
+            "Psychiatrists"
+        ]
+    },
+    {
+        "name": "Guohua Xia",
+        "phone": "(530) 231-5858",
+        "review_count": 0,
+        "rating": 0.0,
+        "business_url": "https://www.yelp.com/biz/guohua-xia-davis-3?osq=Psychiatrists",
+        "categories": [
+            "Psychiatrists"
+        ]
+    },
+    {
+        "name": "Woodland Healthcare",
+        "phone": "(530) 756-2364",
+        "review_count": 5,
+        "rating": 2.0,
+        "business_url": "https://www.yelp.com/biz/woodland-healthcare-davis-2?osq=Psychiatrists",
+        "categories": [
+            "Internal Medicine",
+            "Family Practice",
+            "Orthopedists"
         ]
     }
 ]
