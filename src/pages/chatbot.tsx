@@ -199,7 +199,7 @@ export default function Home() {
                                 </AccordionItem> */}
                                 <p><strong>{index+1}: {doc.metadata.disorder}</strong></p>
                                 <p>The DSM-5 category for this disorder is {doc.metadata.category}</p>
-                                <p><a href={doc.metadata.link} target="_blank" rel="noopener noreferrer">Learn More</a></p>
+                                <p><a href={"https://" + doc.metadata.link} target="_blank" rel="noopener noreferrer">Learn More</a></p>
                               </div>
                             ))}
 
