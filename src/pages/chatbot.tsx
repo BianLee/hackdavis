@@ -183,6 +183,7 @@ export default function Home() {
                         >
                           <h1>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</h1>
                            <h5>Here are some possible conditions from DSM-5: </h5>
+                           <br></br>
 
                             {message.sourceDocs.map((doc, index) => (
                               <div key={`messageSourceDocs-${index}`}>
@@ -199,8 +200,10 @@ export default function Home() {
                                 </AccordionItem> */}
                                 <p><strong>{index+1}: {doc.metadata.disorder}</strong></p>
                                 <p>The DSM-5 category for this disorder is {doc.metadata.category}</p>
+                                <p>{doc.metadata.description.substring(0, 100)}...</p>
                                 <p><a href={"https://" + doc.metadata.link} target="_blank" rel="noopener noreferrer">Learn More</a></p>
-                              </div>
+                                <br></br>
+                                </div>
                             ))}
 
                         </div>
