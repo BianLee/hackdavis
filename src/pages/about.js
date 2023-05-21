@@ -24,20 +24,49 @@ export default function About() {
             Our Team
           </div>
           <div className="text-lg">
-            Bian Lee, Computer Science and Engineering, '26
+            <a
+              href="https://bianlee.me"
+              target="_blank"
+              style={{ color: "blue" }}
+            >
+              Bian Lee
+            </a>
+            , Computer Science and Engineering, '26
             <br />
-            Keenan Kalra, Computer Science and Engineering, '26
+            <a
+              href="https://kklike32.github.io/portfolio/"
+              target="_blank"
+              style={{ color: "blue" }}
+            >
+              Keenan Kalra
+            </a>
+            , Computer Science and Engineering, '26
             <br />
-            Andrew Kuang, Data Science, '26
+            <a
+              href="https://kuangster.co/"
+              target="_blank"
+              style={{ color: "blue" }}
+            >
+              Andrew Kuang
+            </a>
+            , Data Science, '26
             <br />
-            Ritvik Irigireddy, Psychology, '24
+            <a
+              href="https://www.ritvikir.co/"
+              target="_blank"
+              style={{ color: "blue" }}
+            >
+              Ritvik Irigireddy
+            </a>
+            , Psychology, '24
           </div>
           <div className="text-2xl pt-11 font-semibold">
             <br />
             Technologies
           </div>
           <div className="text-lg">
-            We used the following tech stack to build Esai
+            Esai uses OpenAI's embedding engines, GPT-3.5 Turbo, Pinecone, and
+            Langchain, built on Next.js.
           </div>
         </div>
       </main>
