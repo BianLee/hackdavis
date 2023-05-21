@@ -2,6 +2,12 @@ import Image from "next/image";
 import Navbar from "components/Navbar";
 import "../../app/globals.css";
 
+
+const captionTitleStyle = {
+  color: 'blue',
+  textDecoration: 'underline'
+};
+
 export default function About() {
   return (
     <div>
@@ -10,10 +16,19 @@ export default function About() {
         <div className="container">
           <div className="text-5xl pb-7 font-semibold ">Yolo County Data Analysis</div>
           <br />
-          <div className="text-lg">
-We wanted to answer the question: To what extent does Mental Health play a role in the Davis Community?          </div>
-        </div>
+          <div className="text-lg" >
+    We wanted to answer the question: To what extent does Mental Health play a role in the Davis Community?   
+ <br />
+ <br />
+    We used Matplotlib and Jyputer Notebook to generate data visualizations to better understand this role.
+     
+           </div>
+     <br />
+      <h1><a style={captionTitleStyle} href="https://github.com/ritvikir/hackdavis/blob/main/public/Narrative.pdf">One Page Narrative</a></h1>
+        <h1><a style={captionTitleStyle} href="https://github.com/ritvikir/hackdavis/blob/main/visualizationMentalHealth.ipynb">Source Code</a></h1>
+        
 
+        </div>
         
       </main>
       
