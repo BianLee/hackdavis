@@ -8,15 +8,21 @@ export default function About() {
       <Navbar />
       <main className="flex min-h-screen flex-col items-center justify-between p-2">
         <div className="container">
-          <div className="text-5xl pb-7 font-semibold ">
-            Why we built Esai
-          </div>
-          <br/>
+          <div className="text-5xl pb-7 font-semibold ">Why we built Esai</div>
+          <br />
           <div className="text-lg">
-            We wanted to solve one of the biggest challenges in today's medical
-            industry...
+            One of the biggest barriers we recognized in today's medical field
+            was getting access to mental health diagnosis and appropriate
+            treatment, especially for those in underserved communities that lack
+            proper resources. With growing emphasis on the importance of mental
+            well-being in the recent years, Esai aims to help provide accurate
+            diagnosis on every case-to-case situations, ensuring that the
+            patients can further proceed in receiving help.
           </div>
-          <div className="text-2xl pt-11 font-semibold">Our Team</div>
+          <div className="text-2xl pt-11 font-semibold">
+            <br />
+            Our Team
+          </div>
           <div className="text-lg">
             Bian Lee, Computer Science and Engineering, '26
             <br />
@@ -26,7 +32,10 @@ export default function About() {
             <br />
             Ritvik Irigireddy, Psychology, '24
           </div>
-          <div className="text-2xl pt-11 font-semibold">Technologies</div>
+          <div className="text-2xl pt-11 font-semibold">
+            <br />
+            Technologies
+          </div>
           <div className="text-lg">
             We used the following tech stack to build Esai
           </div>
