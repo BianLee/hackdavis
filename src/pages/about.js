@@ -11,11 +11,12 @@ export default function About() {
           <div className="text-5xl pb-7 font-semibold ">
             Why we built Esai
           </div>
+          <br/>
           <div className="text-lg">
             We wanted to solve one of the biggest challenges in today's medical
             industry...
           </div>
-          <div className="text-2xl pt-11 font-semibold ">Our Team</div>
+          <div className="text-2xl pt-11 font-semibold">Our Team</div>
           <div className="text-lg">
             Bian Lee, Computer Science and Engineering, '26
             <br />
