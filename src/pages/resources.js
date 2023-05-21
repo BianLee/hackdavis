@@ -70,7 +70,7 @@ export default function About() {
               */}
               <br />
 
-              {contactArray.length != 30 ? (
+              {contactArray.length != 60 ? (
                 <>
                   {" "}
                   <Typewriter
