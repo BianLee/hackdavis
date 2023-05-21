@@ -1,7 +1,4 @@
-**Bian Lee**
-**Andrew Kuang**
-**Ritvik Irigireddy**
-**Keenan Kalra**
+**Bian Lee**, **Andrew Kuang**, **Ritvik Irigireddy**, **Keenan Kalra**
 
 
 ### What it does
