@@ -1,106 +1,338 @@
 [
     {
-        "name": "Dryfoos Renee, PhD",
-        "phone": "(530) 297-5095",
-        "review_count": 0,
-        "rating": 0.0,
-        "business_url": "https://www.yelp.com/biz/dryfoos-renee-phd-davis?osq=Psychiatrists",
+        "name": "My Burma",
+        "phone": "(530) 231-5229",
+        "review_count": 391,
+        "rating": 4.5,
+        "business_url": "https://www.yelp.com/biz/my-burma-davis",
         "categories": [
-            "Psychiatrists"
+            "Burmese",
+            "Asian Fusion"
         ]
     },
     {
-        "name": "Kent B. Hart, MD",
-        "phone": "(530) 756-1750",
-        "review_count": 0,
-        "rating": 0.0,
-        "business_url": "https://www.yelp.com/biz/kent-b-hart-md-davis?osq=Psychiatrists",
+        "name": "Guads Tacos & Beer",
+        "phone": "(530) 564-4160",
+        "review_count": 224,
+        "rating": 4.7,
+        "business_url": "https://www.yelp.com/biz/guads-tacos-and-beer-no-title",
         "categories": [
-            "Psychiatrists",
-            "Counseling & Mental Health"
+            "Beer Bar",
+            "Tacos"
         ]
     },
     {
-        "name": "Baltz Trudy, PHD",
-        "phone": "(530) 220-3243",
-        "review_count": 0,
-        "rating": 0.0,
-        "business_url": "https://www.yelp.com/biz/baltz-trudy-phd-davis?osq=Psychiatrists",
+        "name": "Mikuni Japanese Restaurant and Sushi Bar",
+        "phone": "(530) 756-2111",
+        "review_count": 1047,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/mikuni-japanese-restaurant-and-sushi-bar-davis-2",
         "categories": [
-            "Psychiatrists"
+            "Japanese",
+            "Sushi Bars",
+            "Seafood"
         ]
     },
     {
-        "name": "Klearmind",
-        "phone": "(916) 900-6686",
-        "review_count": 8,
-        "rating": 5.0,
-        "business_url": "https://www.yelp.com/biz/klearmind-roseville-2?osq=Psychiatrists",
+        "name": "Four Seasons Gourmet Chinese Restaurant",
+        "phone": "(530) 758-0058",
+        "review_count": 817,
+        "rating": 4.3,
+        "business_url": "https://www.yelp.com/biz/four-seasons-gourmet-chinese-restaurant-davis",
         "categories": [
-            "IV Hydration",
-            "Counseling & Mental Health",
-            "Anesthesiologists"
+            "Chinese"
         ]
     },
     {
-        "name": "Baxter John A MD",
-        "phone": "(530) 753-1309",
-        "review_count": 0,
-        "rating": 0.0,
-        "business_url": "https://www.yelp.com/biz/baxter-john-a-md-davis?osq=Psychiatrists",
+        "name": "Hikari Sushi & Omakase",
+        "phone": "(530) 564-4356",
+        "review_count": 107,
+        "rating": 4.9,
+        "business_url": "https://www.yelp.com/biz/hikari-sushi-and-omakase-davis",
         "categories": [
-            "Psychiatrists"
+            "Sushi Bars",
+            "Japanese"
         ]
     },
     {
-        "name": "Feldman Jay M MD",
-        "phone": "(530) 756-7212",
-        "review_count": 0,
-        "rating": 0.0,
-        "business_url": "https://www.yelp.com/biz/feldman-jay-m-md-davis?osq=Psychiatrists",
+        "name": "Nugget Markets",
+        "phone": "(530) 750-3800",
+        "review_count": 435,
+        "rating": 4.4,
+        "business_url": "https://www.yelp.com/biz/nugget-markets-davis",
         "categories": [
-            "Psychiatrists"
+            "Grocery",
+            "Fruits & Veggies",
+            "Sandwiches"
         ]
     },
     {
-        "name": "Amy Glick, MD",
-        "phone": "(530) 668-2600",
-        "review_count": 0,
-        "rating": 0.0,
-        "business_url": "https://www.yelp.com/biz/amy-glick-md-woodland?osq=Psychiatrists",
+        "name": "Yang Kee Dumpling",
+        "phone": "(530) 746-2186",
+        "review_count": 237,
+        "rating": 4.6,
+        "business_url": "https://www.yelp.com/biz/yang-kee-dumpling-davis",
         "categories": [
-            "Psychiatrists"
+            "Dim Sum"
         ]
     },
     {
-        "name": "Teal Stewart MD",
-        "phone": "(530) 758-1580",
-        "review_count": 0,
-        "rating": 0.0,
-        "business_url": "https://www.yelp.com/biz/teal-stewart-md-davis?osq=Psychiatrists",
+        "name": "Crepeville",
+        "phone": "(530) 750-2400",
+        "review_count": 1036,
+        "rating": 3.8,
+        "business_url": "https://www.yelp.com/biz/crepeville-davis",
         "categories": [
-            "Psychiatrists"
+            "Breakfast & Brunch",
+            "Creperies",
+            "Sandwiches"
         ]
     },
     {
-        "name": "Karen Hopp, MD",
-        "phone": "(530) 668-2600",
-        "review_count": 0,
-        "rating": 0.0,
-        "business_url": "https://www.yelp.com/biz/karen-hopp-md-woodland?osq=Psychiatrists",
+        "name": "Sam\u2019s Mediterranean Cuisine",
+        "phone": "(530) 758-2855",
+        "review_count": 1293,
+        "rating": 4.4,
+        "business_url": "https://www.yelp.com/biz/sams-mediterranean-cuisine-davis",
         "categories": [
-            "Psychiatrists"
+            "Mediterranean",
+            "Halal"
         ]
     },
     {
-        "name": "Mindpath Health",
-        "phone": "(530) 297-7500",
-        "review_count": 2,
-        "rating": 1.0,
-        "business_url": "https://www.yelp.com/biz/mindpath-health-davis-2?osq=Psychiatrists",
+        "name": "Tea List",
+        "phone": "(530) 750-2700",
+        "review_count": 477,
+        "rating": 4.2,
+        "business_url": "https://www.yelp.com/biz/tea-list-davis",
         "categories": [
-            "Psychiatrists",
-            "Psychologists"
+            "Coffee & Tea",
+            "Tea Rooms",
+            "Sandwiches"
+        ]
+    },
+    {
+        "name": "Tommy J\u2019s Grill & Catering",
+        "phone": "(530) 758-7550",
+        "review_count": 434,
+        "rating": 4.5,
+        "business_url": "https://www.yelp.com/biz/tommy-js-grill-and-catering-davis",
+        "categories": [
+            "Burgers",
+            "American (Traditional)",
+            "Bars"
+        ]
+    },
+    {
+        "name": "Burgers and Brew",
+        "phone": "(530) 750-3600",
+        "review_count": 2265,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/burgers-and-brew-davis",
+        "categories": [
+            "Burgers",
+            "Bars"
+        ]
+    },
+    {
+        "name": "Woodstock\u2019s Pizza Davis",
+        "phone": "(530) 757-2525",
+        "review_count": 977,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/woodstocks-pizza-davis-davis-2",
+        "categories": [
+            "Pizza",
+            "Gluten-Free",
+            "Vegetarian"
+        ]
+    },
+    {
+        "name": "Taqueria Guadalajara - North Davis",
+        "phone": "(530) 297-4000",
+        "review_count": 923,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/taqueria-guadalajara-north-davis-davis-2",
+        "categories": [
+            "Mexican"
+        ]
+    },
+    {
+        "name": "Sudwerk Brewing Co",
+        "phone": "(530) 756-2739",
+        "review_count": 118,
+        "rating": 4.5,
+        "business_url": "https://www.yelp.com/biz/sudwerk-brewing-co-davis-3",
+        "categories": [
+            "Breweries",
+            "American (New)",
+            "Cocktail Bars"
+        ]
+    },
+    {
+        "name": "Yuchan Shokudo",
+        "phone": "(530) 753-3196",
+        "review_count": 564,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/yuchan-shokudo-davis-4",
+        "categories": [
+            "Ramen"
+        ]
+    },
+    {
+        "name": "The Mustard Seed",
+        "phone": "(530) 758-5750",
+        "review_count": 367,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/the-mustard-seed-davis",
+        "categories": [
+            "American (New)",
+            "Desserts",
+            "Wine Bars"
+        ]
+    },
+    {
+        "name": "Taqueria Davis",
+        "phone": "(530) 758-8453",
+        "review_count": 658,
+        "rating": 4.5,
+        "business_url": "https://www.yelp.com/biz/taqueria-davis-davis",
+        "categories": [
+            "Mexican"
+        ]
+    },
+    {
+        "name": "Davis Food Co-op",
+        "phone": "(530) 758-2667",
+        "review_count": 264,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/davis-food-co-op-davis",
+        "categories": [
+            "Grocery",
+            "Delis",
+            "Fruits & Veggies"
+        ]
+    },
+    {
+        "name": "Zumapoke & Lush Ice",
+        "phone": "(530) 341-0498",
+        "review_count": 540,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/zumapoke-and-lush-ice-davis-2",
+        "categories": [
+            "Sushi Bars",
+            "Seafood",
+            "Poke"
+        ]
+    },
+    {
+        "name": "Temple Coffee Roasters",
+        "phone": "(530) 341-0574",
+        "review_count": 540,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/temple-coffee-roasters-davis",
+        "categories": [
+            "Coffee & Tea",
+            "Coffee Roasteries"
+        ]
+    },
+    {
+        "name": "Good Friends Hawaiian Poke",
+        "phone": "(530) 231-5537",
+        "review_count": 390,
+        "rating": 4.5,
+        "business_url": "https://www.yelp.com/biz/good-friends-hawaiian-poke-davis",
+        "categories": [
+            "Poke",
+            "Seafood",
+            "Hawaiian"
+        ]
+    },
+    {
+        "name": "Nugget Markets",
+        "phone": "(530) 753-6690",
+        "review_count": 144,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/nugget-markets-davis-3",
+        "categories": [
+            "Grocery",
+            "Fruits & Veggies",
+            "Sandwiches"
+        ]
+    },
+    {
+        "name": "Cafe Bernardo",
+        "phone": "(530) 750-5101",
+        "review_count": 701,
+        "rating": 3.5,
+        "business_url": "https://www.yelp.com/biz/cafe-bernardo-davis-2",
+        "categories": [
+            "American (New)"
+        ]
+    },
+    {
+        "name": "Huku Japanese Bistro",
+        "phone": "(530) 750-0858",
+        "review_count": 439,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/huku-japanese-bistro-davis-3",
+        "categories": [
+            "Japanese",
+            "Sushi Bars"
+        ]
+    },
+    {
+        "name": "Dumpling House",
+        "phone": "(530) 753-7210",
+        "review_count": 1379,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/dumpling-house-davis",
+        "categories": [
+            "Chinese"
+        ]
+    },
+    {
+        "name": "Froggy\u2019s",
+        "phone": "(530) 758-7550",
+        "review_count": 283,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/froggys-davis-2",
+        "categories": [
+            "Bars",
+            "Burgers",
+            "American (Traditional)"
+        ]
+    },
+    {
+        "name": "Paesanos",
+        "phone": "(530) 758-8646",
+        "review_count": 708,
+        "rating": 3.5,
+        "business_url": "https://www.yelp.com/biz/paesanos-davis-2",
+        "categories": [
+            "Italian",
+            "Pizza"
+        ]
+    },
+    {
+        "name": "Upper Crust Baking",
+        "phone": "(530) 750-1180",
+        "review_count": 125,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/upper-crust-baking-davis",
+        "categories": [
+            "Bakeries",
+            "Desserts",
+            "Pizza"
+        ]
+    },
+    {
+        "name": "Osteria Fasulo",
+        "phone": "(530) 758-1324",
+        "review_count": 299,
+        "rating": 4.0,
+        "business_url": "https://www.yelp.com/biz/osteria-fasulo-davis",
+        "categories": [
+            "Italian"
         ]
     }
 ]
