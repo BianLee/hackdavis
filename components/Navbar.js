@@ -48,7 +48,7 @@ export default function Navbar() {
               <Link href="/analytics">Analytics</Link>
             </li>
             <li className="block py-2 pr-4 pl-4 text-xl text-gray-700 hover:text-gray-50 md:hover:bg-transparent hover:text-gray-500">
-              <Link href="/contacts">Contacts</Link>
+              <Link href="/resources">Resources</Link>
             </li>
           </ul>
         </div>
